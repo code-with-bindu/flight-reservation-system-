@@ -127,7 +127,6 @@ def main():
     else:
         print("Invalid choice. Exiting program.")
         return
-
     while True:
         print("\n1. Book a seat")
         print("2. Cancel a booking")
